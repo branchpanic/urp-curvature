@@ -1,6 +1,11 @@
 # urp-curvature
 Screen space curvature feature for URP
 
+<p align="center">
+  <!-- TODO: Replace me with a better picture -->
+  <img src="https://user-images.githubusercontent.com/3802908/116013407-0a6b1c00-a5fe-11eb-9345-b223909f20dc.png">
+</p>
+
 ## Attribution
 - CurvatureFeature is a lean version of DrawFullscreenFeature from Unity's [Universal Rendering Examples][ure]
 - Curvature shader is based on Bartek Moniewski's [Blender Feature request][blender]
