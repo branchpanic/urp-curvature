@@ -1,0 +1,8 @@
+{
+	"name": "com.branchpanic.curvature",
+	"version": "0.0.0",
+	"displayName": "Curvature Feature",
+	"dependencies": {
+		"com.unity.render-pipelines.universal": "10.0.0"
+	}
+}
